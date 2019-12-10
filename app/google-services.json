@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1084860695830",
+    "firebase_url": "https://miband-project.firebaseio.com",
+    "project_id": "miband-project",
+    "storage_bucket": "miband-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084860695830:android:cb91d3d2b21bc003",
+        "android_client_info": {
+          "package_name": "com.healthcarelab.wearable.mibandapp2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1084860695830-k1sp0ii7js8d1113ekj19sn5tr4crplf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzt6-hia0EuGsqAZ4IRKGebCmAinuHVlM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
